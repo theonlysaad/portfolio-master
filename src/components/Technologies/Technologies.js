@@ -6,10 +6,9 @@ import { Skills } from './Skills'
 const Technologies = () => (
   <Section id="skills">
     <SectionDivider divider />
-    <SectionTitle>Skills</SectionTitle>
+    <SectionTitle>Compétences</SectionTitle>
     <SectionText>
-    I have extensive experience working with a variety of technologies as a developer. I've developed and maintained multiple projects using these technologies, and I'm always eager to learn more.
-    </SectionText>
+    J'ai une vaste expérience en tant que développeur, travaillant avec diverses technologies. J'ai développé et maintenu plusieurs projets en utilisant ces technologies, et je suis toujours avide d'en apprendre davantage.    </SectionText>
     <List>
       {Skills.map((Skill) => (
         <ListItem key={Skill.slug}>
