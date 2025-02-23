@@ -1,0 +1,68 @@
+export const projects = [
+  {
+    title: 'AirBnB clone',
+    description: "Application web full-stack inspirée d'Airbnb.",
+    image: '/images/covid.jpg',
+    tags: ['Java', 'XML', 'Firebase', 'Rest API'],
+    source: 'https://github.com/theonlysaad/AirBnB_clone_v4.git',
+    visit: 'https://project.vipuljha.com/covid/',
+    id: 0,
+  },
+  {
+    title: ' Gestion Employer',
+    description: "Ce projet est une application web développée en .NET (ASP.NET Core), permettant de gérer les employés d'une entreprise.",
+    image: '/images/portfolio.jpg',
+    tags: ['.NET Core', 'Entity Framework Core', 'SQL Server', ' Razor Pages'],
+    source: 'https://github.com/theonlysaad/GestionEmployer.git',
+    visit: 'https://project.vipuljha.com/website/',
+    id: 1,
+  },
+  {
+    title: 'Google Maps App',
+    description: "Ce projet est une application mobile développée avec Flutter, permettant de cloner les fonctionnalités de base de Google Maps.",
+    image: '/images/abs.jpg',
+    tags: ['Flutter', 'Google Maps API' , 'Dart' , 'Android/IOS'],
+    source: 'https://github.com/theonlysaad/googlemapsapp.git',
+    visit: 'https://forum.xda-developers.com/t/tweak-mod-arm-x86-project-dark-booster-abs-tweaks-v5-0-2-3-6-0-23-01-2016.3120404/',
+    id: 2,
+  },
+  {
+    title: ' Gestion Ventes',
+    description: "Ce projet consiste en la conception et le développement d'une application de gestion de vente de produits.",
+    image: '/images/eb.jpg',
+    tags: ['C#', 'SQL Server Management Studio', 'Visual Studio'],
+    source: 'https://github.com/theonlysaad/GestionVentes.git',
+    visit: 'https://forum.xda-developers.com/t/kernel-mido-oreo-pie-electrablue-kernel-21-0-july-06-redmi-note-4.3655651/',
+    id: 3,
+  },
+  {
+    title: 'Film APP',
+    description: "Cette application mobile, développée avec React Native, permet aux utilisateurs de consulter la liste des films tendance et de rechercher des films spécifiques en utilisant l'API TMDB.",
+    image: '/images/snapit.jpg',
+    tags: ['React Native', 'API TMDB'],
+    source: 'https://github.com/theonlysaad/Film-APP.git',
+    visit: 'https://forum.xda-developers.com/t/app-port-6-0-lenovo-snapit-camera-5-8-53-for-all-devices.3608065/',
+    id: 3,
+  },
+  {
+    title: 'Gestion Bancaire',
+    description: "Ce projet est une application web développée en Java EE (Jakarta EE), permettant la gestion des comptes bancaires",
+    image: '/images/capps.jpg',
+    tags: ['Java', 'Jakarta EE' , 'Maven' , 'MySQL'],
+    source: 'https://github.com/theonlysaad/GESTION_BANCAIRE_JPA-main.git',
+    visit: 'https://forum.xda-developers.com/t/c-apps-v2-unofficial-6-0-x-cyanogen-os-capps-v2-for-cm13-and-cm13-based-roms.3254865/',
+    id: 3,
+  },
+
+];
+
+export const TimeLineData = [
+  { year: 2016, text: 'Started my journey as a developer.', },
+  { year: 2017, text: 'Worked intensively on ROMs & Kernels.', },
+  { year: 2018, text: 'Learned Android app development.', },
+  { year: 2019, text: 'Finished Diploma in Computer Engineering.', },
+  { year: 2020, text: 'Aquired new skills while trying not to catch COVID-19', },
+  { year: 2021, text: 'Survived COVID-19 and got my first Job at Primebook.', },
+  { year: 2022, text: 'Completed B.Tech in Information Technology.', },
+  { year: 2023, text: 'Year under progress....', },
+];
