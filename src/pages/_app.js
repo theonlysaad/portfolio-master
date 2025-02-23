@@ -5,7 +5,7 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Vipul Jha - Android Developer</title>
+        <title>CHAH Saad - Porttfolio</title>
       </Head>
       <Theme>
         <Component {...pageProps} />

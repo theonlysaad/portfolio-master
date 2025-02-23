@@ -2,16 +2,16 @@ export const projects = [
   {
     title: 'AirBnB clone',
     description: "Application web full-stack inspirée d'Airbnb.",
-    image: '/images/covid.jpg',
+    image: '/images/j3iced6u.bmp',
     tags: ['Java', 'XML', 'Firebase', 'Rest API'],
     source: 'https://github.com/theonlysaad/AirBnB_clone_v4.git',
     visit: 'https://project.vipuljha.com/covid/',
     id: 0,
   },
   {
-    title: ' Gestion Employer',
+    title: ' Gestion Employeur',
     description: "Ce projet est une application web développée en .NET (ASP.NET Core), permettant de gérer les employés d'une entreprise.",
-    image: '/images/portfolio.jpg',
+    image: '',
     tags: ['.NET Core', 'Entity Framework Core', 'SQL Server', ' Razor Pages'],
     source: 'https://github.com/theonlysaad/GestionEmployer.git',
     visit: 'https://project.vipuljha.com/website/',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Google Maps App',
     description: "Ce projet est une application mobile développée avec Flutter, permettant de cloner les fonctionnalités de base de Google Maps.",
-    image: '/images/abs.jpg',
+    image: '/images/77nsen32.bmp',
     tags: ['Flutter', 'Google Maps API' , 'Dart' , 'Android/IOS'],
     source: 'https://github.com/theonlysaad/googlemapsapp.git',
     visit: 'https://forum.xda-developers.com/t/tweak-mod-arm-x86-project-dark-booster-abs-tweaks-v5-0-2-3-6-0-23-01-2016.3120404/',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: ' Gestion Ventes',
     description: "Ce projet consiste en la conception et le développement d'une application de gestion de vente de produits.",
-    image: '/images/eb.jpg',
+    image: '/images/fyfoprnw.bmp',
     tags: ['C#', 'SQL Server Management Studio', 'Visual Studio'],
     source: 'https://github.com/theonlysaad/GestionVentes.git',
     visit: 'https://forum.xda-developers.com/t/kernel-mido-oreo-pie-electrablue-kernel-21-0-july-06-redmi-note-4.3655651/',
@@ -47,7 +47,7 @@ export const projects = [
   {
     title: 'Gestion Bancaire',
     description: "Ce projet est une application web développée en Java EE (Jakarta EE), permettant la gestion des comptes bancaires",
-    image: '/images/capps.jpg',
+    image: '/images/IBank.png',
     tags: ['Java', 'Jakarta EE' , 'Maven' , 'MySQL'],
     source: 'https://github.com/theonlysaad/GESTION_BANCAIRE_JPA-main.git',
     visit: 'https://forum.xda-developers.com/t/c-apps-v2-unofficial-6-0-x-cyanogen-os-capps-v2-for-cm13-and-cm13-based-roms.3254865/',
