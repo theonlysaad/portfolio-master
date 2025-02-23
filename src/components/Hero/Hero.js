@@ -9,15 +9,12 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Hey there,
+          Bonjour,
         </SectionTitle>
         <SectionText>
-        I'm Vipul Jha, also known as lordarcadius. I'm an Android developer from Delhi, India with experience in ROMs, Kernels, & Scripts. Currently, I am working in Primebook as an Android Engineer. I'm passionate about contributing to open-source projects and helping the developer community on Facebook and Telegram.
+        Je suis ingénieur en informatique et réseaux, spécialisé en développement full-stack et DevOps. Actuellement en Master à Paris, je cherche une alternance dans le domaine des systèmes d'information, ERP (Odoo, Sage X3) et développement web.
         </SectionText>
-        <Button onClick={(e) => {
-          e.preventDefault();
-          window.location.href = '';
-        }}>My Resume</Button>
+        <Button onClick={() => window.open('/files/CV.pdf', '_blank')}>Télécharger mon CV</Button>
       </LeftSection>
     </Section>
   </>
