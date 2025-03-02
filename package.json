@@ -8,14 +8,19 @@
     "start": "next start"
   },
   "dependencies": {
+    "framer-motion": "^12.4.7",
+    "grid": "^4.10.8",
     "next": "13.2.4",
     "ngrok": "^4.3.3",
+    "prop-types": "^15.8.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.8.0",
     "react-router-dom": "^7.2.0",
+    "react-vertical-timeline-component": "^3.5.3",
     "styled-components": "^5.3.9",
-    "styled-normalize": "^8.0.7"
+    "styled-normalize": "^8.0.7",
+    "ui": "^0.2.4"
   },
   "devDependencies": {
     "next-optimized-images": "^2.6.2"
